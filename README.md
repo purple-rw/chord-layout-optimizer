@@ -14,6 +14,7 @@ The evolutionary algorithm used here is based on the one mentioned by Dickens at
 7. Repeat steps 2-6 until the best keyboard in pool O has not changed for `o` rounds.
 8. Repeat steps 2-4 using pool O until the best keyboard in the pool has not changed for `q` rounds.
 
+
 k = number_of_positions
 n = nth_best_layout
 c = possible_mutations
